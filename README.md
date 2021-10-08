@@ -1,6 +1,6 @@
 # IoT
 
-Rest Backend developes using SpringBoot which manages requests from IoT device (Automatic Hand Sanitizer dispenser). It has the following features
+Rest Backend developed using SpringBoot which manages requests from IoT device (Automatic Hand Sanitizer dispenser). It has the following features
 
 1. Handles authentication of devices
 2. Manages device state and status of the level
